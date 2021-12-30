@@ -1,0 +1,6 @@
+{
+  "/api": {
+    "target": "htpp://localhost:8080",
+    "secure": false
+  }
+}
